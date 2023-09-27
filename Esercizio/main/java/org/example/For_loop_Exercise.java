@@ -6,7 +6,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         int x=5;
-        for (int i = 0; i <=25 ; i++) {
+        for (int i = 5; i <=25 ; i++) {
             System.out.println((i));
 
         }
